@@ -1,5 +1,11 @@
 # Creditinfo
 
+1. DB can be created by creditinfo.sql
+2. Replace connection string accordingly to your enviroment.
+3. data file path and name is currently hardcoded to .\CreditInfoCandidateExam\CreditInfoImporter\bin\Debug\netcoreapp3.1 and name as "Sample.xml"
+4. 
+
+
 // 20211215043907
 // https://localhost:44395/api/credit/Search?NationalID=AAA1240024
 
